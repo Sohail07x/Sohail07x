@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jalalmahammadsohail@gmail.com)
 
 ---
 
@@ -16,7 +16,7 @@ I'm a passionate developer with a keen interest in building scalable application
 - 🎓 **Education**: [Your Degree/Field]
 - 💼 **Current Role**: [Your Current Position]
 - 🌍 **Location**: [Your Location]
-- 📫 **Reach me**: [your.email@example.com]
+- 📫 **Reach me**: jalalmahammadsohail@gmail.com
 
 ---
 
@@ -129,7 +129,7 @@ I'm always interested in:
 
 Feel free to reach out for collaboration, questions, or just a friendly chat!
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [jalalmahammadsohail@gmail.com](mailto:jalalmahammadsohail@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 - **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
